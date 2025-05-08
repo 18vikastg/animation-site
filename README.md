@@ -32,7 +32,7 @@
 
 This project is a visually captivating website inspired by [Zentry](https://zentry.com/), featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. The goal is to deliver a luxurious, modern feel with engaging UI/UX and smooth responsiveness, capturing the essence of an award-winning design.
 
-> **Note:** This project is created purely for educational purposes and is not intended for commercial use or public deployment.
+
 
 ---
 
